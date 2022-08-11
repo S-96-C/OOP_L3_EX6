@@ -1,4 +1,4 @@
-public class Main {
+public class InheritanceDemo {
   public static void main(String[] args)
   {
     Person p1 = new Person("Sunil", "Negombo", "IT2110");
